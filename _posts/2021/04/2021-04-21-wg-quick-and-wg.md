@@ -1,5 +1,5 @@
 ---
-title: `wg-quick` and `wg`
+title: "`wg-quick` and `wg`"
 ---
 
 In order to simplify the scripts deployed on Wireguard VPN Server, I planned to
